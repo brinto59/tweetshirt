@@ -1,0 +1,2 @@
+var tweets=[{"text":"If it's worth tweeting,then it's worth putting on a #tweetshirt"},{"text":"Hello world"},{"text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid recusandae quidem architecto qui consequatur eligendi facilis provident magni dolore!"}];
+updateTweets(tweets);
